@@ -1,6 +1,6 @@
 var mongoose = require("mongoose")
 
-var dbURI = 'mongodb+srv://yigit:1299>@mekanbul.hnjkhji.mongodb.net/';
+var dbURI = 'mongodb+srv://yigit:1299@mekanbul.hnjkhji.mongodb.net/';
 
 
 mongoose.connect(dbURI);
